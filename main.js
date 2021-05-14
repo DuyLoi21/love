@@ -18,4 +18,3 @@ function changeBtn() {
 function playAudio() {
   myAudio.play();
 }
-playAudio();
